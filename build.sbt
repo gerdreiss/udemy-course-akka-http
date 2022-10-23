@@ -2,7 +2,7 @@ name := "udemy-akka-http"
 
 version := "0.1"
 
-scalaVersion := "2.13.9"
+scalaVersion := "2.13.10"
 
 val akkaVersion      = "2.7.0"
 val akkaHttpVersion  = "10.4.0"
